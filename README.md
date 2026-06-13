@@ -4,7 +4,7 @@ Data Science, Visualization & Data Engineering Portfolio Projects | Excel, Table
 
 ## About Me
 - Experienced in recruitment across Ireland and the UK
-- Strong focus on compliance, reporting, and process improvement
+- Strong focus on compliance, reporting, and process improvement, Creating Pivot diagrams and Trackers using Excel.
 - Passionate about data-driven decision making
 
 ## Skills
