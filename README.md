@@ -1,6 +1,6 @@
 # Hi, I'm Ziyanda 👋
 
-Talent Acquisition Specialist and Data Science Specialist with expeirence in Data Analytics & Data Engineering.
+Talent Acquisition Specialist and Data Science graduate with experience in Visualisation & Data Engineering.
 
 ## About Me
 - Experienced in recruitment across Ireland and the UK
