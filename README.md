@@ -1,6 +1,6 @@
 # Hi, I'm Ziyanda 👋
 
-Talent Acquisition Specialist and Data Science graduate with experience in Visualisation & Data Engineering.
+Data Science, Visualization & Data Engineering Portfolio Projects | Excel, Tableau, SQL, Python, Power BI, Snowflake, AWS
 
 ## About Me
 - Experienced in recruitment across Ireland and the UK
