@@ -3,7 +3,6 @@
 Data Science, Visualization & Data Engineering Portfolio Projects | Excel, Tableau, SQL, Python, Power BI, Snowflake, AWS
 
 ## About Me
-- Experienced in recruitment across Ireland and the UK
 - Strong focus on compliance, reporting, and process improvement, Creating Pivot diagrams and Trackers using Excel.
 - Passionate about data-driven decision making
 
