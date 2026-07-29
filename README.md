@@ -38,11 +38,5 @@ Data Science, Visualization & Data Engineering Portfolio Projects | Excel, Table
 - Processed and prepared temporal datasets for accurate modelling.  
 - Evaluated forecasting performance and refined models for improved accuracy.  
 
-## Open to Opportunities
-I am open to:  
-- Freelance data analytics projects  
-- Dashboard and reporting work  
-- SQL and data cleaning tasks  
-
 ## Connect with Me
 - [LinkedIn Profile](https://www.linkedin.com/in/ziyandambulawa)
