@@ -1,11 +1,11 @@
 # Hi, I'm Ziyanda
 
-Data Science, Visualization & Data Engineering Portfolio Projects | Excel, Tableau, SQL, Python, Power BI, Snowflake, AWS
+Data Science, Visualization, MI reporting, Business Analysis, Data Engineering Portfolio Projects | Excel, Tableau, SQL, Python, Power BI, Snowflake, AWS QuickSight
 
 ## About Me
 - Strong focus on compliance, reporting, and process improvement, with experience creating Pivot tables, dashboards, and tracking tools using Excel.  
 - Passionate about data-driven decision-making and transforming data into meaningful insights.  
-- Currently undertaking freelance projects for corporations, applying data science techniques to solve real-world business challenges.  
+- Applying data science techniques to solve real-world business challenges.  
 
 ## Skills
 - SQL  
