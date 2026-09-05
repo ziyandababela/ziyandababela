@@ -14,29 +14,39 @@ Data Science, Visualization, MI reporting, Business Analysis, Data Engineering P
 - Power BI  
 - Tableau  
 - Snowflake  
-- AWS  
+- AWS QuickSights 
 
 ## Projects
 
-### Customer Churn Prediction Using Machine Learning  
-**Tools:** Python, SQL, Scikit-learn  
-- Prepared and transformed structured customer datasets for analysis.  
-- Applied machine learning classification techniques to predict churn risk.  
-- Identified key drivers of customer attrition through feature analysis.  
-- Presented findings using clear visualisations and insight-driven reporting.  
+### Recruitment Source Effectiveness Analysis
 
-### Public Transport Delay Analysis Using Weather and Event Data  
-**Tools:** Python, SQL, Power BI / Excel  
-- Analysed transport delay patterns using weather and event-based datasets.  
-- Cleaned and structured raw datasets for analysis and reporting.  
-- Identified key factors influencing delays through exploratory data analysis.  
-- Built visual dashboards to communicate insights and trends clearly.  
+Designed and completed an end-to-end recruitment analytics project using SQL, Snowflake, Power BI, and GitHub.
+This project analysed a fictional recruitment dataset to evaluate the effectiveness of various candidate sourcing channels and demonstrate data analysis and reporting skills.
 
-### Time Series Forecasting Project  
-**Tools:** Python, Pandas, Forecasting Techniques  
-- Developed time series models to analyse trends and forecast future patterns.  
-- Processed and prepared temporal datasets for accurate modelling.  
-- Evaluated forecasting performance and refined models for improved accuracy.  
+Key Activities
+• Created and loaded structured recruitment data into Snowflake
+• Wrote SQL queries to analyse:
+
+Candidate volume by source
+Hiring trends
+Source performance comparisons
+
+• Created data visualisations and dashboards in Power BI
+• Documented methodology, SQL queries, findings, and recommendations in GitHub
+Technologies Used
+
+SQL
+Snowflake
+Power BI
+GitHub
+
+Key Findings
+
+Identified the highest-performing recruitment channels
+Demonstrated how data analytics can support recruitment decision-making and hiring strategy
+
+Disclaimer
+This project uses entirely fictional data created for learning and portfolio purposes. No confidential business information was used. 
 
 ## Connect with Me
 - [LinkedIn Profile](https://www.linkedin.com/in/ziyandambulawa)
